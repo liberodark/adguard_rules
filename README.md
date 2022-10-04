@@ -1,2 +1,2 @@
 # adguard_rules
-Rules
+Public Rules
