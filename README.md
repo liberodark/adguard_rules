@@ -1,0 +1,2 @@
+# adguard_rules
+Rules
